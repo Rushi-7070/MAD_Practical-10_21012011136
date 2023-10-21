@@ -9,4 +9,6 @@ class Contact(var id:String,
               var Address:String,
               var latitude:Double,
               var longitude:Double):Serializable {
+
+
 }
